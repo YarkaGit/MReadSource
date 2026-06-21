@@ -5,6 +5,8 @@ A fast, lightweight, fully local ebook reader for Android.<br>
 No ads, no paid subscriptions, no data tracking. Just your books.
 </p>
 
+Updates, release announcements and feedback:
+[Telegram — @mread_app](https://t.me/mread_app)
 ---
 
 ## Features
